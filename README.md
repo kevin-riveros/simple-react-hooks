@@ -2,8 +2,6 @@
 
 This is a collection of simple and useful React hooks. Just copy and paste!
 
-## useDebounce
-
 <details>
   <summary>🚀 useDebounce</summary>
   
@@ -41,8 +39,6 @@ const App = () => {
 
 </details>
 
-## useLocalStorage
-
 <details>
   <summary>🚀 useLocalStorage</summary>
 
@@ -78,8 +74,6 @@ const App = () => {
 
 </details>
 
-## useMediaQuery
-
 <details>
   <summary>🚀 useMediaQuery</summary>
 
@@ -106,8 +100,6 @@ const App = () => {
 ```
 
 </details>
-
-## useOnlineStatus
 
 <details>
   <summary>🚀 useOnlineStatus</summary>
